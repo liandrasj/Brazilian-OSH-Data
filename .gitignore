@@ -1,0 +1,4 @@
+*.xlsx
+preprocessing_codes/*.csv
+atributtes/cbo.csv
+land_transport/*.csv
